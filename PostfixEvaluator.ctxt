@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PostfixEvaluator
+comment1.params=expression
+comment1.target=int\ evaluate(java.lang.String)
+numComments=2
